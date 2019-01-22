@@ -3,16 +3,16 @@ Data
 To find the best location for our sushi place, we will use the following sources of information:
 
 From Wikipedia (tables)
-Locations	          https://es.wikipedia.org/wiki/Anexo:Comunas_de_Chile_por_poblaci%C3%B3n
-Post Codes 	        https://es.wikipedia.org/wiki/Anexo:C%C3%B3digos_postales_de_Chile
+Locations   https://es.wikipedia.org/wiki/Anexo:Comunas_de_Chile_por_poblaci%C3%B3n
+Post Codes    https://es.wikipedia.org/wiki/Anexo:C%C3%B3digos_postales_de_Chile
 
 From Files
-Geo Location	      https://raw.githubusercontent.com/ssikam/My-Capstone-Project/master/chile%20geo%20public.csv
+Geo Location    https://raw.githubusercontent.com/ssikam/My-Capstone-Project/master/chile%20geo%20public.csv
 
 From Foursquare 
 Venues Categories   https://developer.foursquare.com/docs/resources/categories
 
-Sushi		            4bf58dd8d48988d1d2941735 
-Highschool	        4bf58dd8d48988d13d941735
-University	        4bf58dd8d48988d1ae941735
-Office		          4d4b7105d754a06375d81259
+Sushi     4bf58dd8d48988d1d2941735 
+Highschool      4bf58dd8d48988d13d941735
+University      4bf58dd8d48988d1ae941735
+Office      4d4b7105d754a06375d81259
